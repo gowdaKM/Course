@@ -1,9 +1,11 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
+Your name : Kavya Marigowda
+The module name of your choice from Course 2 : Exploratory Data Analysis
+3-4 sentences on your learnings from that module
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Exploratory Data Analysis:
+    Exploratory Data Analysis is very useful at the initial stage of the data Analysis
+    1: Data Cleaning : Cleaning up the data will help resolve the issue during analysis and also data becomes more reliable
+    2: Univariate Analysis
+    2: Bivariate Analysis : Helps to identify how a pair of varaibles are behaving comapred to eachother
+    3: Dervied Metrics : Helpful in enchancing the source data
